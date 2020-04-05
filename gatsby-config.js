@@ -4,6 +4,9 @@ module.exports = {
     author: `Huy Nguyen`,
     description: `emond website`,
     siteUrl: `https://emond.jp/`,
+    social: {
+      twitter: `emond`,
+    },
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
