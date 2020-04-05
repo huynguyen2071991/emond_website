@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: huynguyen2071991/emond_site
+  repo: huynguyen2071991/emond_website
 
 media_folder: static/assets
 public_folder: assets
