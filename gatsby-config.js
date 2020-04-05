@@ -2,11 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `emond`,
     author: `Huy Nguyen`,
-    // description: `A starter blog demonstrating what Gatsby can do.`,
-    // siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    // social: {
-    //   twitter: `kylemathews`,
-    // },
+    description: `emond website`,
+    siteUrl: `https://emond.jp/`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
